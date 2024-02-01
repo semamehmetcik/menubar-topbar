@@ -1,12 +1,113 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Topbar from './components/common/topbar'
+import Menubar from './components/common/menubar'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      TEST EDİYORUM
-    </div>
-  );
+    <>
+      <Topbar/>
+      <Menubar/>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+      <p>.</p>
+
+    </>
+  )
 }
 
-export default App;
+export default App

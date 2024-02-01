@@ -1,0 +1,8 @@
+@use "../../styles/variables" as v;
+
+.topbar{
+    background-color: v.$color6;
+    color:  v.$color3;
+    padding: 10px 35px;
+    
+}
