@@ -1,8 +1,16 @@
 import React from 'react'
+import PageHeader from '../components/common/page-header'
+import Spacer from '../components/common/spacer'
+import LoginForm from '../components/login-page/login-form'
 
 const LoginPage = () => {
   return (
-    <div>LoginPage</div>
+    <>
+      <PageHeader title="Login" />
+      <Spacer/>
+      <LoginForm/>
+      <Spacer/>
+    </>
   )
 }
 

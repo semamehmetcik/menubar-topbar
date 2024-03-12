@@ -7,7 +7,7 @@ import EventsPage from '../pages/events-page';
 import LinkPage from '../pages/';
 import CoursesPage from '../pages/courses-page';
 import AboutPage from '../pages/about-page';
-import HomePage from '../pages/home-page';
+
 
 
 
